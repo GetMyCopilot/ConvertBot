@@ -1,13 +1,2 @@
-aiofiles
-aiogram
-aiohappyeyeballs
-aiohttp
-aiosignal
-anyio
-asyncio
-Flask
-httpcore
-httplib2
-httpx
-pillow
-requests
+aiogram>=3.0.0
+Pillow>=10.0.0
